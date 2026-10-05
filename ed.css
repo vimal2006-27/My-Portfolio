@@ -18,5 +18,12 @@ section {
   display: flex;
 }
 h1 {
-  color: aliceblue;
+  color: burlywood;
+  text-shadow: 1px 1px 2px white;
+  text-transform: uppercase;
+}
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  color: darkgray;
 }

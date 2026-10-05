@@ -10,7 +10,7 @@ section {
   display: flex;
 }
 button {
-  background-color: ghostwhite;
+  background-color: burlywood;
   border-radius: 8px;
   height: 30px;
   width: 100px;
@@ -39,10 +39,13 @@ button {
   border-radius: 5px;
   margin-left: 15px;
 }
-h2 {
-  color: whitesmoke;
+h2,
+h4 {
+  color: burlywood;
+  text-shadow: 1px 1px 2px;
 }
 li {
   font-size: 18px;
   line-height: 1.5;
+  color: darkgray;
 }
